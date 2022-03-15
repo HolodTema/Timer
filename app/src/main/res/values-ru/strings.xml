@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Таймер</string>
+    <string name="hours">Часы</string>
+    <string name="minutes">Минуты</string>
+    <string name="seconds">Секунды</string>
+    <string name="start">Старт</string>
+    <string name="resume">Продолжить</string>
+    <string name="pause">Пауза</string>
+    <string name="cancel">Отменить</string>
+    <string name="stop">Остановить</string>
+    <string name="ring_banner">Обратный отсчет завершен!</string>
+    <string name="menu_choose_sound">Выбрать мелодию таймера</string>
+    <string name="sound_name1">Классический таймер</string>
+    <string name="sound_name2">Поздравление от Сергея Мавроди с Новым Годом!</string>
+    <string name="sound_name3">Мелодия радио-часов</string>
+    <string name="sound_name4">Счастливое утро</string>
+    <string name="sound_name5">Техно загадка</string>
+</resources>

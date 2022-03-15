@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+    <string name="stop">Stop</string>
+    <string name="ring_banner">Timer is ringing now!</string>
+    <string name="menu_choose_sound">Choose timer sound</string>
+
+    <string name="sound_name1">Classic timer</string>
+    <string name="sound_name2">Sergey Mavrodi\'s New Year congratulation</string>
+    <string name="sound_name3">Radio-clock</string>
+    <string name="sound_name4">Happy morning</string>
+    <string name="sound_name5">Techno mystery</string>
+</resources>

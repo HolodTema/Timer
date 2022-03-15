@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/holod/AndroidStudioProjects/AlarmClockData/Timer0.0.1/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/AlarmClockData/Timer0.0.1/app/src/main/res/layout/activity_main_run.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.1/app/src/main/res/layout/activity_main_paused.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.1/app/src/main/res/layout/activity_main_run.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.2/app/src/main/res/layout/activity_main_paused.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.2/app/src/main/res/layout/activity_main_run.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.2/app/src/main/res/layout/activity_main_sleep.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.3/app/src/main/res/layout/activity_main_paused.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.3/app/src/main/res/layout/activity_main_run.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.3/app/src/main/res/layout/activity_main_sleep.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.6/app/src/main/res/layout-land/activity_main_sleep.xml" value="0.33" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.6/app/src/main/res/layout/activity_main_ring.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.6/app/src/main/res/layout/activity_main_sleep.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.6/app/src/main/res/layout/ringing_notification.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout-land/activity_main_sleep.xml" value="0.5104166666666666" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/activity_choose_sound.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/activity_main_paused.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/activity_main_ring.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/activity_main_run.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/activity_main_sleep.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/layout/list_timer_sounds.xml" value="0.3385416666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/menu/menu_choose_sound.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/holod/AndroidStudioProjects/SamsungProject data/Timer0.0.7/app/src/main/res/menu/menu_timer.xml" value="0.3416666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
